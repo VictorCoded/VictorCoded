@@ -12,7 +12,6 @@
      <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img src='https://skillicons.dev/icons?i=js' alt='js'/>
-    <img src='https://skillicons.dev/icons?i=ts' alt='ts'/>
     <img src='https://skillicons.dev/icons?i=nodejs' alt='nodejs'/>
     <img src='https://skillicons.dev/icons?i=figma' alt='figma'/>
     <img src='https://skillicons.dev/icons?i=css' alt='css'/>
