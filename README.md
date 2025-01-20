@@ -43,7 +43,7 @@
       <img width="50" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/victor-henrique1/">
-      <img width="50" src="linkedin.svg">
+      <img width="40" src="linkedin.svg">
     </a>
 </div>
 
