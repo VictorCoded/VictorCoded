@@ -40,7 +40,7 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: v.henriquecarvalho10@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="50" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/victor-henrique1/">
       <img width="25" src="linkedin.svg">
